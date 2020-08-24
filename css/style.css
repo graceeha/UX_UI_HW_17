@@ -1,0 +1,16 @@
+body {
+    background-color: #F5FFFD;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    color: #70857F;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    display: inline;
+}
